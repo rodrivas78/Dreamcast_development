@@ -1,6 +1,6 @@
 
 // Dreamcast development experiments 
-// by Rodrigo Gonzales Rivas - rodrivas78
+// by Rodrigo G. Rivas - rodrivas78
 // Terrain generation with perlin noise + Control Inputs + Skybox
 //
 // KallistiOS 2.0.0
