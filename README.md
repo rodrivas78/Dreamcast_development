@@ -2,7 +2,7 @@
 
 Dreamcast programming.
 
-Some programs made by me for Dreamcast using the KGL library.
+Some 3D scenes made by me using the KGL library.
 
 
 Controls:
