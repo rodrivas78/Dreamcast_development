@@ -1,6 +1,6 @@
 
 
-# Dreamcast programming.
+# Dreamcast programming
 
 Some 3D scenes made by me using the KGL library.
 
