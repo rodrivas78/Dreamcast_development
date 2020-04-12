@@ -4,10 +4,10 @@ Dreamcast programming.
 
 Some programs made by me for Dreamcast using the KGL library.
 
-Link das Isos:
 
 Controls:
 
+Isos:
 
 Any questions or suggestions please let me know.
 
