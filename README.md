@@ -2,7 +2,7 @@
 
 # Dreamcast programming
 
-Some 3D scenes made by me using the KGL library.
+Some 3D scenes programmed using the KGL library.
 
 Link to download the ISOs (.cdi) with these programs:
 
