@@ -1,6 +1,6 @@
 
 // Dreamcast development experiments 
-// by Rodrigo Gonzales Rivas - Rodrivas78
+// by Rodrigo G. Rivas - Rodrivas78
 // "Ancient Stadium"  /  Loading multiple textures + Control Inputs
 // KallistiOS 2.0.0
 
