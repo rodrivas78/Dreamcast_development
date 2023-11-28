@@ -1,4 +1,4 @@
-
+News:  The download links were offline but are now working.
 
 # Dreamcast programming
 
@@ -6,7 +6,7 @@ Some 3D scenes programmed using the KGL library.
 
 Link to download the ISOs (.cdi) with these programs:
 
-https://sites.google.com/site/taivas01/dc_dev/TerrSky7.cdi 
+https://drive.google.com/file/d/1569q5U5Ma1MEJ6KcIvjJXVCSAB14Y8K2/view
 
 https://sites.google.com/site/taivas01/dc_dev/Ancient23.cdi
 
