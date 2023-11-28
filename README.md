@@ -4,7 +4,7 @@ News:  Download links (of ISOs and tool) were offline but are now working.
 
 Some 3D scenes programmed using the KGL library.
 
-Link to download the ISOs (.cdi) with these programs:
+Link to download the ISOs (.cdi) showing these examples:
 
 https://drive.google.com/file/d/1569q5U5Ma1MEJ6KcIvjJXVCSAB14Y8K2/view
 
