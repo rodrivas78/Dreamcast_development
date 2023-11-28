@@ -1,4 +1,4 @@
-News:  The download links were offline but are now working.
+News:  Download links (of ISOs and tool) were offline but are now working.
 
 # Dreamcast programming
 
@@ -8,13 +8,13 @@ Link to download the ISOs (.cdi) with these programs:
 
 https://drive.google.com/file/d/1569q5U5Ma1MEJ6KcIvjJXVCSAB14Y8K2/view
 
-https://sites.google.com/site/taivas01/dc_dev/Ancient23.cdi
+https://drive.google.com/file/d/17d9kFRJSCeKbNiqE8m-TcgpZyJaPYjCw/view
 
 Useful tools (for editing and viewing PVR files):
 
-https://sites.google.com/site/taivas01/dc_dev/PVRTool.zip
+PVRTool:   https://drive.google.com/file/d/1ms-dgiCcpvsQ4UOJb0xbhueGhzwgcrDu/view
 
-https://sites.google.com/site/taivas01/dc_dev/PVRViewer.rar
+PVRViewer:   https://drive.google.com/file/d/1mv3k8yuVimKqFU-OSZNrd9yJr0gd6NoC/view
 
 Videos:
 
